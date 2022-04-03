@@ -1,0 +1,80 @@
+
+/* login css */
+.loig {
+    border-radius: 20px;
+    margin-top: 90px;
+    margin-left: 450px;
+    width: 500px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+
+}
+
+h4 {
+    margin-left: 20px;
+}
+
+label {
+    color: blue;
+    font-weight: 600;
+}
+#help{
+    width: 300px;
+    margin-left: 100px;
+}
+#reset{
+    width: 300px;
+    margin-left: 100px;
+}
+
+body{
+    background-color: rgb(152, 248, 248);
+}
+
+.log{
+    float: top;
+    margin-left: 450px;
+    width: 500px;
+    background-color: rgb(152, 248, 248);
+    font-weight:bold;
+    padding-top: 15px;
+}

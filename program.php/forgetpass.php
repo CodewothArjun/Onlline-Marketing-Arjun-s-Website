@@ -1,0 +1,1 @@
+<?php echo ' your can reset your password'; ?>

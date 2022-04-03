@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(209, 245, 245);
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+
+/* other img */
+div.pic {
+    margin-top: 20px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 350px;
+}
+
+div.pic:hover {
+    border: 2px solid rgb(87, 3, 3);
+}
+
+div.pic img {
+    width: 100%;
+    height: auto;
+}
